@@ -1,0 +1,19 @@
+{
+  "name": "safewatch-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "firebase": "^10.9.0",
+    "fs": "^0.0.1-security",
+    "nodemon": "^3.1.0",
+    "serialport": "^12.0.0"
+  }
+}
